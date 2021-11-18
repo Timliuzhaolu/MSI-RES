@@ -11,7 +11,7 @@ The notebooks in this folder demonstrate how to train and test denoising and ups
 
 ## Evaluations
 
-The metrics used to assess the model performances are the image quality metrics: **PSNR**, **Piqe** and **Brisque**. In addition, resolution of each image is also approximated using the script `msi_res.py`. Finally biological implications are drawn using the `Brain_clf.ipynb`.
+The metrics used to assess the model performances are the image quality metrics: **PSNR**, **Piqe** and **Brisque**. In addition, resolution of each image is also approximated using the script `msi_res.py`. These information are then collected and compared in `boxplot.ipynb` and `boxplot_x4.ipynb` Finally biological implications are drawn using the `Brain_clf.ipynb`.
 
 
 ## Utilities
